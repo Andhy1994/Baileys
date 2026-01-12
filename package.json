@@ -1,7 +1,7 @@
 {
   "name": "@andhy.stevano/baileys",
   "type": "module",
-  "version": "7.0.0-rc.9",
+  "version": "7.0.0-rc.10",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
@@ -9,16 +9,16 @@
   ],
   "homepage": "https://github.com/Andhy1994/baileys",
   "repository": {
-"type": "git",
+    "type": "git",
     "url": "https://github.com/Andhy1994/baileys.git"
   },
   "license": "MIT",
   "author": "Andhy Stevano",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-"publishConfig": {
-  "access": "public"
-},
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "lib/**/*",
     "WAProto/**/*",
